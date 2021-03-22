@@ -1,0 +1,14 @@
+C:\Users\Aadhy\OneDrive\Desktop\ISAC_pratical\PM_Services\bin\Debug\netcoreapp3.1\PM_Services.deps.json
+C:\Users\Aadhy\OneDrive\Desktop\ISAC_pratical\PM_Services\bin\Debug\netcoreapp3.1\PM_Services.dll
+C:\Users\Aadhy\OneDrive\Desktop\ISAC_pratical\PM_Services\bin\Debug\netcoreapp3.1\PM_Services.pdb
+C:\Users\Aadhy\OneDrive\Desktop\ISAC_pratical\PM_Services\bin\Debug\netcoreapp3.1\PM_Data.dll
+C:\Users\Aadhy\OneDrive\Desktop\ISAC_pratical\PM_Services\bin\Debug\netcoreapp3.1\PM_Model.dll
+C:\Users\Aadhy\OneDrive\Desktop\ISAC_pratical\PM_Services\bin\Debug\netcoreapp3.1\PM_Data.pdb
+C:\Users\Aadhy\OneDrive\Desktop\ISAC_pratical\PM_Services\bin\Debug\netcoreapp3.1\PM_Model.pdb
+C:\Users\Aadhy\OneDrive\Desktop\ISAC_pratical\PM_Services\obj\Debug\netcoreapp3.1\PM_Services.csprojAssemblyReference.cache
+C:\Users\Aadhy\OneDrive\Desktop\ISAC_pratical\PM_Services\obj\Debug\netcoreapp3.1\PM_Services.AssemblyInfoInputs.cache
+C:\Users\Aadhy\OneDrive\Desktop\ISAC_pratical\PM_Services\obj\Debug\netcoreapp3.1\PM_Services.AssemblyInfo.cs
+C:\Users\Aadhy\OneDrive\Desktop\ISAC_pratical\PM_Services\obj\Debug\netcoreapp3.1\PM_Services.csproj.CoreCompileInputs.cache
+C:\Users\Aadhy\OneDrive\Desktop\ISAC_pratical\PM_Services\obj\Debug\netcoreapp3.1\PM_Services.csproj.CopyComplete
+C:\Users\Aadhy\OneDrive\Desktop\ISAC_pratical\PM_Services\obj\Debug\netcoreapp3.1\PM_Services.dll
+C:\Users\Aadhy\OneDrive\Desktop\ISAC_pratical\PM_Services\obj\Debug\netcoreapp3.1\PM_Services.pdb

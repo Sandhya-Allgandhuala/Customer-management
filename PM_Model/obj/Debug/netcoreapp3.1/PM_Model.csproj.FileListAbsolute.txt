@@ -1,0 +1,9 @@
+C:\Users\Aadhy\OneDrive\Desktop\ISAC_pratical\PM_Model\bin\Debug\netcoreapp3.1\PM_Model.deps.json
+C:\Users\Aadhy\OneDrive\Desktop\ISAC_pratical\PM_Model\bin\Debug\netcoreapp3.1\PM_Model.dll
+C:\Users\Aadhy\OneDrive\Desktop\ISAC_pratical\PM_Model\bin\Debug\netcoreapp3.1\PM_Model.pdb
+C:\Users\Aadhy\OneDrive\Desktop\ISAC_pratical\PM_Model\obj\Debug\netcoreapp3.1\PM_Model.csprojAssemblyReference.cache
+C:\Users\Aadhy\OneDrive\Desktop\ISAC_pratical\PM_Model\obj\Debug\netcoreapp3.1\PM_Model.AssemblyInfoInputs.cache
+C:\Users\Aadhy\OneDrive\Desktop\ISAC_pratical\PM_Model\obj\Debug\netcoreapp3.1\PM_Model.AssemblyInfo.cs
+C:\Users\Aadhy\OneDrive\Desktop\ISAC_pratical\PM_Model\obj\Debug\netcoreapp3.1\PM_Model.csproj.CoreCompileInputs.cache
+C:\Users\Aadhy\OneDrive\Desktop\ISAC_pratical\PM_Model\obj\Debug\netcoreapp3.1\PM_Model.dll
+C:\Users\Aadhy\OneDrive\Desktop\ISAC_pratical\PM_Model\obj\Debug\netcoreapp3.1\PM_Model.pdb
